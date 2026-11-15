@@ -1,0 +1,43 @@
+{
+  "name": "همراه باقرالعلوم — دبیرستان نمونه دولتی پسرانه باقرالعلوم",
+  "short_name": "همراه باقرالعلوم",
+  "description": "مرجع اختصاصی مشاوره، برنامه‌ریزی درسی، هدایت تحصیلی و آزمون‌های خودارزیابی دانش‌آموزان",
+  "start_url": "./?mode=app",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1128",
+  "theme_color": "#0a1128",
+  "dir": "rtl",
+  "lang": "fa-IR",
+  "orientation": "portrait-primary",
+  "categories": [
+    "education",
+    "counseling"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
